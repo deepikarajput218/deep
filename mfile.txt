@@ -1,1 +1,3 @@
-new mi
+
+git revert purpose
+w mi
